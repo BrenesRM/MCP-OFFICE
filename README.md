@@ -46,8 +46,3 @@ Word → create_docx, read_docx, update_docx, delete_docx
 Excel → create_xlsx, read_xlsx, update_xlsx, delete_xlsx
 
 PowerPoint → create_pptx, read_pptx, update_pptx, delete_pptx
-
-
----
-
-👉 Do you want me to also add **usage examples** (like JSON tool calls for `create_xlsx` or `update_pptx`) into the README so it’s easier for future you (or teammates) to remember the input formats?
